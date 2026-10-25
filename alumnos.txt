@@ -1,0 +1,4 @@
+123456789,Carlos Gomez,carloVillaGrans@email.com,Diplomado,18,18.5,19
+87654321,Ana Martinez,anaMaria@email.com,Curso,19,19,19
+11223344,Pedro Perez,pedrocarreo@email.com,Bootcamp,2.0,2.0,2.0
+31886716,Dimarkos Contreras,dimarkoscontreras1@gmail.com,Bootcamp,0.0,0.0,0.0
