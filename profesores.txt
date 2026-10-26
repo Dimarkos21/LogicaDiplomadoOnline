@@ -1,3 +1,0 @@
-10208705,Martinez Arturo,Diplomado,Base de Datos
-12345678,Maria ,Bootcamp,Desarrollo Web
-
